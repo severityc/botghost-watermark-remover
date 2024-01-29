@@ -7,7 +7,7 @@ This simple code will override the botghost.com online status and replace it wit
 
 ---
 
-### 🤖 REPLIT VERSION (No Installation Needed) : https://replit.com/@synhzx/botghostcom-watermark-remover
+### 🤖 REPLIT VERSION : https://replit.com/@synhzx/botghostcom-watermark-remover
 
 ---
 
