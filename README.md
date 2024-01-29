@@ -1,5 +1,5 @@
 # botghost-watermark-remover
-This simple code will override the https://botghost.com online status and replace it with a streaming status via twitch.com
+This simple code will override the **👻MADE WITH BOTGHOST.COM👻** listening status and replace it with a twitch streaming status
 
 ---
 
